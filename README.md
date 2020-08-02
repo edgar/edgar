@@ -1,4 +1,4 @@
-<img src="./hero.jpg">
+<a href="https://gonzalez.io"><img src="https://github.com/edgar/edgar/blob/main/hero.jpg"></a>
 
 ### Hello, World! 👋
 
