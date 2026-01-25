@@ -4,7 +4,7 @@
 
 My name is [Edgar Gonzalez](https://gonzalez.io), I have a multifaceted technical career with 30+ years’ track of innovation and success. I'm an engineering leader with a solid history of effective systems engineering with extensive experience creating and managing the development of web and mobile applications. Well recognized for strong leadership and project management abilities. With a love for solving challenging engineering problems, software design patterns, best practices, thoughtful architecture and building/leading engineering teams.
 
-* **Current iteration:** Director of Engineering <a href="https://zillow.com">@Zillow</a> - @<a href="https://streeteasy.com">StreetEasy</a>
+* **Current iteration:** Director of Engineering @<a href="https://zillow.com">Zillow</a> - @<a href="https://streeteasy.com">StreetEasy</a>
 * **Previously:**
   * Director DevOps & Data @<a href="https://blueapron.com">Blue Apron</a>
   * Co-founder & CTO @<a href="https://www.crunchbase.com/organization/piictu">Piictu</a> (<a href="https://www.techstars.com/">TechStars</a> NYC)
